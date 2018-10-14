@@ -15,6 +15,6 @@ function addElementToBeginningOfArray(array, element) {
 function destructivelyAddElementToBeginningOfArray(array, element) {
 
   array.unshift(element);
-  return array;
+  return array; //It wouldn't work in one line exept for the use of brackets maybe
 
 }
