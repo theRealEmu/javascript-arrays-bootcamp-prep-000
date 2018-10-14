@@ -38,6 +38,6 @@ function destructivelyAddElementToEndOfArray(array, element) {
    array.push(element);
    return array;
    
-   //Same behaviuour like 3//
+   //Same behaviuour like Task 3
 
 }
