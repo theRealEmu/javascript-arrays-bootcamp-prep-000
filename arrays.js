@@ -61,3 +61,9 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
 }
 
 
+//8 removeElementFromBeginningOfArray
+function removeElementFromBeginningOfArray(array) {
+
+  return nuArray = array.slice(1);
+
+}
