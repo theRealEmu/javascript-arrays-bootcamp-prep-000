@@ -18,7 +18,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array; 
   
   //It wouldn't work in one line 
-  //return array.unshift(element) gives somehow only the array.length
+  //return array.unshift(element) gives somehow only the array.length.  Don't know why yet
   
 
 }
