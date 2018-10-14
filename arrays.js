@@ -44,3 +44,9 @@ function destructivelyAddElementToEndOfArray(array, element) {
 
 
 
+//6 accessElementInArray
+function accessElementInArray(array, index) {
+
+  return array[index];
+
+}
