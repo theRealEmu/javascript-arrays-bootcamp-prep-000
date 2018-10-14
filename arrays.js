@@ -75,3 +75,11 @@ function destructivelyRemoveElementFromEndOfArray (array) {
   return array.pop(1);
 
 }
+
+
+//10 removeElementFromEndOfArray
+function removeElementFromEndOfArray(array){
+
+  return array.slice(0, array.length - 1);
+
+}
