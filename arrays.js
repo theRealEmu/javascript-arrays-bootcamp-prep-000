@@ -39,5 +39,8 @@ function destructivelyAddElementToEndOfArray(array, element) {
    return array;
    
    //Same behaviuour like Task 3
-
+ 
 }
+
+
+
