@@ -20,5 +20,13 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   //It wouldn't work in one line 
   //return array.unshift(element) gives somehow only the array.length.  Don't know why yet
   
+}
+
+
+//4 addElementToEndOfArray
+function addElementToEndOfArray(array, element) {
+
+  var nuArray = [...array, element];
+  return nuArray;
 
 }
