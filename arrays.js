@@ -69,3 +69,9 @@ function removeElementFromBeginningOfArray(array) {
 }
 
 
+//9 destructivelyRemoveElementFromEndOfArray
+function destructivelyRemoveElementFromEndOfArray (array) {
+
+  return array.pop(1);
+
+}
