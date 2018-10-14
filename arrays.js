@@ -32,3 +32,9 @@ function addElementToEndOfArray(array, element) {
 }
 
 
+//5 destructivelyaddElementToEndOfArray
+function destructivelyAddElementToEndOfArray(array, element) {
+
+   return array.push(element);
+
+}
