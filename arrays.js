@@ -50,3 +50,11 @@ function accessElementInArray(array, index) {
   return array[index];
 
 }
+
+
+//7 destructivelyRemoveElementFromBeginningOfArray
+function destructivelyRemoveElementFromBeginningOfArray(array) {
+
+  return array.shift(0);
+
+}
