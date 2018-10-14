@@ -9,3 +9,11 @@ function addElementToBeginningOfArray(array, element) {
   return nuArray;
 
 }
+
+
+//3 destructivelyAddElementToBeginningOfArray
+function destructivelyAddElementToBeginningOfArray(array, element) {
+
+  return array.unshift(element);
+
+}
