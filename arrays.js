@@ -67,3 +67,5 @@ function removeElementFromBeginningOfArray(array) {
   return nuArray = array.slice(1);
 
 }
+
+
